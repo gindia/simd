@@ -7,4 +7,4 @@
 > Make sure that clang is installed.
 
 ## Note:
-* to use AVX512 enable the `__m512` part of the code and add -mavx512f flag.
+* to use AVX512 enable the `__m512` part of the code and add `-mavx512f` flag.
